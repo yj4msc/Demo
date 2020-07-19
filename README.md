@@ -26,7 +26,6 @@ title="Geranium Herbarium" url="http://www.kew.org/herbcatimg/154891.jpg"
 
 #### Pelargonium & Geranium Society (PAGS)
 Established at the start of 2009, The Pelargonium & Geranium Society was founded to register and collect existed genera of plants named Geraniaceae, since there are currently almost 2000 hybridizers.
-<param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
 
 ## Distribution 
 In North Africa, rose scented geranium was first introduced in 1847 in Algeria from Grasse (France). In Egypt, it was introduced by a Frenchman, Charles Garnier, by 1930. In China, geranium was introduced to the Yunnan Province by a state-owned company in the 1970s. 
