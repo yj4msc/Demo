@@ -48,7 +48,7 @@ In China, 5,000 to 7,000 families are involved in the production of geranium oil
 <param ve-map center="Q148" zoom="4">
 <param ve-map-layer mapwarper title="U.S Manufacturers in China" mapwarper-id="44276" active>
 
-Code to add a specimen from Global Plants.
+Code to add a specimen from Global Plants. It is easy to understand why the many small farmers that plant it appreciate geranium as a cash crop. The oil is easily stored, and serves as a ‘savings’ account, allowing families to manage their expenditure when required.
 <param ve-plant-specimen eid="Q146118" max="1" reverse="true">
 
 # Problem 
