@@ -26,11 +26,13 @@ title="Geranium Herbarium" url="http://www.kew.org/herbcatimg/154891.jpg"
 <param title="Cape of Good Hope" eid="Q4092" fill="#000000" marker-symbol="landmark">
 <param ve-map center="Q258" zoom="4" basemap="Esri_WorldPhysical">
 
-#### Pelargonium & Geranium Society (PAGS)
+### Pelargonium & Geranium Society (PAGS)
 Established at the start of 2009, The Pelargonium & Geranium Society was founded to register and collect existed genera of plants named Geraniaceae, since there are currently almost 2000 hybridizers.
 <param ve-storiiies id="9a1e7">
 
 # Distribution 
+<param title="pelargonium" eid="Q146118">
+
 In North Africa, rose scented geranium was first introduced in 1847 in Algeria from Grasse (France). In Egypt, it was introduced by a Frenchman, Charles Garnier, by 1930. In China, geranium was introduced to the Yunnan Province by a state-owned company in the 1970s. 
 <param ve-map prefer-geojson center="Q837" zoom="2" basemap="Esri_WorldPhysical">
 <param title="Algeria" eid="Q262">
@@ -38,9 +40,8 @@ In North Africa, rose scented geranium was first introduced in 1847 in Algeria f
 <param title="Egypt" eid="Q79">
 <param title="Yunnan" eid="Q43194">
 
-The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="41.651031, -83.541939" zoom="6">
-<param ve-map-layer geojson url="geojson/great-lakes-fruit-belt.json" title="Great Lakes Fruit Belt" fill="#FF0000" marker-symbol="landmark" active>
+<param ve-map-layer geojson url="geojson/Geranium Distribution Map.json" title="Great Lakes Fruit Belt" fill="#FF0000" marker-symbol="landmark" active>
 
 ## Subtitle
 
