@@ -3,7 +3,7 @@
        banner="http://free.iiifhosting.com/iiif/b0b64fc70bef4f3776838a2c848b51d25ed4e69db1eff060a721ebf5ad9671d2/"
        layout="vtl"
        num-maps="5"
-       num-specimens="1"
+       num-specimens="2"
        num-images="x"
        num-primary-sources="x"
        author="Yao Jiang">
