@@ -45,7 +45,7 @@ It is easy to understand why the many small farmers that plant it appreciate ger
 <param ve-video id="gDojS7PWWPY" title="steam distillation of geranium oil">
 
 In China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain. 
-<param ve-map center="Q148" zoom="6">
+<param ve-map center="Q148" zoom="3">
 <param ve-map-layer mapwarper title="U.S Manufacturers in China" mapwarper-id="44276" active>
 
 # Problem 
