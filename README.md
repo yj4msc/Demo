@@ -29,7 +29,7 @@ Established at the start of 2009, The Pelargonium & Geranium Society was founded
 
 ## Distribution 
 In North Africa, rose scented geranium was first introduced in 1847 in Algeria from Grasse (France). In Egypt, it was introduced by a Frenchman, Charles Garnier, by 1930. In China, geranium was introduced to the Yunnan Province by a state-owned company in the 1970s. 
-<param ve-map prefer-geojson center="Q258" zoom="2" basemap="Esri_WorldPhysical">
+<param ve-map prefer-geojson center="Q258" zoom="3" basemap="Esri_WorldPhysical">
 <param title="Algeria" eid="Q262">
 <param title="Grasse" eid="Q173705">
 <param title="Egypt" eid="Q79">
