@@ -49,7 +49,7 @@ In China, 5,000 to 7,000 families are involved in the production of geranium oil
 <param ve-map-layer mapwarper title="U.S Manufacturers in China" mapwarper-id="44276" active>
 
 Code to add a specimen from Global Plants.
-<param ve-plant-specimen eid="Q157211" max="1" reverse="true">
+<param ve-plant-specimen eid="Q12844029" max="1" reverse="true">
 
 # Problem 
 The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
