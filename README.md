@@ -8,7 +8,7 @@
        num-primary-sources="x"
        author="Yao Jiang">
 
-<param title="geranium" eid="Q157211">
+<param title="geraniums" eid="Q157211">
 <param title="pelargonium" eid="Q146118">
 
 # Introduction
