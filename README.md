@@ -14,7 +14,11 @@
 # Introduction
 ## Geranium & Pelargonium
 Pelargonium is a genus of flowering plants commonly known as geranium. Geranium is cultivated widely for their ornamental value but are also used in perfume production and both the scented flowers and leaves are edible. 
- 
+ <param ve-image
+title="Geranium Herbarium" url="http://free.iiifhosting.com/iiif/b0b64fc70bef4f3776838a2c848b51d25ed4e69db1eff060a721ebf5ad9671d2/"
+       fit="cover"
+       attribution="Kew Garden Collection">
+
 ### Nomenclature Confusion
  When pelargoniums were brought over from South Africa they were thought to be the same as the geranium, and thus were accidentally misclassified. Linnaeus originally included all the species in one genus, Geranium, but they were later separated into two genera by Charles L’Héritier in 1789. Genetic testing has shed new light on Pelargonium classification, and will probably continue to do so.
 <param title="South Africa" eid="Q258" fill="#000000" marker-symbol="landmark">
@@ -22,11 +26,7 @@ Pelargonium is a genus of flowering plants commonly known as geranium. Geranium 
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
-Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-image
-title="Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
-       fit="cover"
-       attribution="Wikimedia Commons">
+
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
