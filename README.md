@@ -8,13 +8,13 @@
        num-primary-sources="x"
        author="Yao Jiang">
 
-<param title="geraniums" eid="Q157211">
+<param title="geranium" eid="Q157211">
 <param title="pelargonium" eid="Q146118">
 
 # Introduction
 ## Geranium & Pelargonium
 ### Nomenclature Confusion
-Pelargonium is a genus of flowering plants commonly known as geraniums. Geraniums are cultivated widely for their ornamental value but are also used in perfume production and both the scented flowers and leaves are edible.  
+Pelargonium is a genus of flowering plants commonly known as geranium. Geranium is cultivated widely for their ornamental value but are also used in perfume production and both the scented flowers and leaves are edible.  
 
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
