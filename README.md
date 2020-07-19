@@ -42,7 +42,11 @@ In North Africa, rose scented geranium was first introduced in 1847 in Algeria f
 
 # Distillation
 It is easy to understand why the many small farmers that plant it appreciate geranium as a cash crop. The oil is easily stored, and serves as a ‘savings’ account, allowing families to manage their expenditure when required.
-<param ve-video id="gDojS7PWWPY" title="Hanami">
+<param ve-video id="gDojS7PWWPY" title="steam distillation of geranium oil">
+
+In China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain. 
+<param ve-map center="Q148" zoom="6">
+<param ve-map-layer mapwarper title="U.S Manufacturers in China" mapwarper-id="44276" active>
 
 # Problem 
 The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
