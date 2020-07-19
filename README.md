@@ -9,7 +9,7 @@
        author="Yao Jiang">
 
 <param title="geranium" eid="Q157211">
-<param title="Pelargonium" eid="Q146118">
+<param title="pelargonium" eid="Q146118">
 
 # Introduction
 ## Geranium & Pelargonium
