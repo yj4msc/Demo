@@ -15,7 +15,7 @@
 ## Geranium & Pelargonium
 Pelargonium is a genus of flowering plants commonly known as geranium. Geranium is cultivated widely for their ornamental value but are also used in perfume production and both the scented flowers and leaves are edible. 
  <param ve-image
-title="Geranium Herbarium" url="http://free.iiifhosting.com/iiif/b0b64fc70bef4f3776838a2c848b51d25ed4e69db1eff060a721ebf5ad9671d2/"
+title="Geranium Herbarium" url="http://www.kew.org/herbcatimg/154891.jpg"
        fit="cover"
        attribution="Kew Garden Collection">
 
