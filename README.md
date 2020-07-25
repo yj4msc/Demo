@@ -23,7 +23,7 @@ title="Geranium Herbarium" url="http://www.kew.org/herbcatimg/154891.jpg"
        attribution="Kew Garden Collection">
 
 ### Nomenclature Confusion
- When pelargoniums were brought over from South Africa they were thought to be the same as the geranium, and thus were accidentally [misclassified](https://books.google.com/books?id=-bR8GxQ6BU0C&pg=PA52&lpg=PA52&dq=geranium+pelargonium+Charles+L%E2%80%99H%C3%A9ritier&source=bl&ots=4gO4oHrkaS&sig=ACfU3U2rlnJ01PtXbFbDl-OWUjBraEc_Rg&hl=zh-CN&sa=X&ved=2ahUKEwiVre_Py8nqAhUFCM0KHeQ0ANwQ6AEwAnoECAoQAQ#v=onepage&q&f=false). Linnaeus originally included all the species in one genus, Geranium, but they were later separated into two genera by Charles L’Héritier in 1789. Genetic testing has shed new light on Pelargonium classification, and will probably continue to do so. ![Ferns](images/ferns.jpg)
+ When pelargoniums were brought over from South Africa they were thought to be the same as the geranium, and thus were accidentally [misclassified](https://books.google.com/books?id=-bR8GxQ6BU0C&pg=PA52&lpg=PA52&dq=geranium+pelargonium+Charles+L%E2%80%99H%C3%A9ritier&source=bl&ots=4gO4oHrkaS&sig=ACfU3U2rlnJ01PtXbFbDl-OWUjBraEc_Rg&hl=zh-CN&sa=X&ved=2ahUKEwiVre_Py8nqAhUFCM0KHeQ0ANwQ6AEwAnoECAoQAQ#v=onepage&q&f=false). Linnaeus originally included all the species in one genus, Geranium, but they were later separated into two genera by Charles L’Héritier in 1789. Genetic testing has shed new light on Pelargonium classification, and will probably continue to do so. ![Ferns](images/154891.jpg)
 <param title="Cape of Good Hope" eid="Q4092" fill="#000000" marker-symbol="landmark">
 <param ve-map center="Q258" zoom="4" basemap="Esri_WorldPhysical">
 
