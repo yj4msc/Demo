@@ -26,9 +26,9 @@ title="Geranium Herbarium" url="http://www.kew.org/herbcatimg/154891.jpg"
 <param title="Cape of Good Hope" eid="Q4092" fill="#000000" marker-symbol="landmark">
 <param ve-map center="Q258" zoom="4" basemap="Esri_WorldPhysical">
 
-The first species of pelargonium known to be cultivated was P. triste, a native of South Africa. It was probably brought to the Botanical Garden in Leiden before 1600 on ships which had stopped at the Cape of Good Hope. However, pelargoniums were named geranium because of their similarity to the herbaceous perennials.
+The first species of pelargonium known to be cultivated was P. triste, a native of South Africa. It was probably brought to the Botanical Garden in Leiden before 1600 on ships which had stopped at the Cape of Good Hope. However, pelargoniums were named geraniums because of their similarity to the herbaceous perennials.
 <param title="pelargonium" eid="Q146118">
-<param title="geranium" eid="Q157211">
+<param title="geraniums" eid="Q157211">
 <param ve-image static title="Illustration of P. triste" url="https://www.biodiversitylibrary.org/pageimage/485755" region="pct:25,5,25,0" attribution="Curtis's Botanical Magazine, 1814, Tab. 1641.">
 
 ### Pelargonium & Geranium Society (PAGS)
