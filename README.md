@@ -27,7 +27,7 @@ title="Geranium Herbarium" url="http://www.kew.org/herbcatimg/154891.jpg"
 <param ve-map center="Q258" zoom="4" basemap="Esri_WorldPhysical">
 
 The first species of Pelargonium known to be cultivated was P. triste, a native of South Africa. It was probably brought to the Botanical Garden in Leiden before 1600 on ships which had stopped at the Cape of Good Hope. However, pelargoniums were named geraniums because of their similarity to the herbaceous perennials.
-<param ve-image static title="Illustration of P. triste" url="https://www.biodiversitylibrary.org/pageimage/485755" region="pct:25,25,25,25" attribution="Curtis's Botanical Magazine, 1814, Tab. 1641.">
+<param ve-image static title="Illustration of P. triste" url="https://www.biodiversitylibrary.org/pageimage/485755" region="pct:25,25,25,5" attribution="Curtis's Botanical Magazine, 1814, Tab. 1641.">
 
 ### Pelargonium & Geranium Society (PAGS)
 Established at the start of 2009, The Pelargonium & Geranium Society was founded to register and collect existed genera of plants named Geraniaceae, since there are currently almost 2000 hybridizers.
