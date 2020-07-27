@@ -19,6 +19,9 @@
 Pelargonium graveolens is mostly used for oil industry. The oil is easily stored, and serves as a ‘savings’ account, allowing families to manage their expenditure when required.
 <param ve-plant-specimen eid="Q164306" max="1" reverse="true">
 
+Pelargonium from Global Plants. It is easy to understand why the many small farmers that plant it appreciate geranium as a cash crop. The oil is easily stored, and serves as a ‘savings’ account, allowing families to manage their expenditure when required.
+<param ve-plant-specimen eid="Q164306" max="1" reverse="true">
+
 Pelargonium is a genus of flowering plants commonly known as geranium. Geranium is cultivated widely for their ornamental value but are also used in perfume production and both the scented flowers and leaves are edible. 
  <param ve-image
 title="Geranium Herbarium" url="http://www.kew.org/herbcatimg/154891.jpg"
